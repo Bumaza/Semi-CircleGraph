@@ -1,0 +1,2 @@
+include ':app', ':semicirclelibrary'
+rootProject.name='Semi-Circle Graph'
